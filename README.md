@@ -1,4 +1,4 @@
-# JunZi-Xposed-Hook
+# JunZi Xposed Hook
 一些软件的hook
 # 支持的软件
 滚动的天空
