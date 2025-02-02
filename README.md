@@ -34,7 +34,7 @@ Picsart
 七猫免费小说
 
 宇宙工具箱
-# 开源说明
-目前仅开源非hook部分，也就是UI，虽然UI不咋好看。
-# 开源地址
-https://github.com/ZZCYUN/JunZi-Xposed-Hook
+
+AudioLab
+
+甲壳虫ADB助手
