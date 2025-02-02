@@ -36,5 +36,3 @@ Picsart
 宇宙工具箱
 
 AudioLab
-
-甲壳虫ADB助手
