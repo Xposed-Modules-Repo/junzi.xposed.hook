@@ -1,5 +1,7 @@
 # JunZi Xposed Hook
 一些软件的hook
+# 欢迎加入TG交流群(没啥人)
+https://t.me/JunZi_Xposed_Hook
 # 支持的软件
 滚动的天空
 
