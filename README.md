@@ -1,7 +1,9 @@
 # JunZi Xposed Hook
 一些软件的hook
-# 欢迎加入TG交流群(没啥人)
+# 欢迎加入TG频道
 https://t.me/JunZi_Xposed_Hook
+# 欢迎加入TG交流群
+https://t.me/JunZi_Xposed_Hook_Chat
 # 温馨提示
 免root模块请无视模块未激活
 
@@ -72,3 +74,7 @@ B612咔叽
 全能扫描王
 
 Motion Ninja
+
+驾考精灵
+
+小星记账
